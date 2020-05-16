@@ -1,16 +1,3 @@
-/**********************
-***********************
-Red ID: 818608122
-
-Student 2: Hosun Yoo
-Red ID: 819543212
-
-CS-570
-a05
-belt.c
-***********************
-***********************/
-
 #include "belt.h"
 
 /* function to initialize belt to be referenced by threads */
