@@ -1,0 +1,415 @@
+
+Belt: 1 frogs + 0 escargots = 1. produced: 1	Added crunchy frog bite.
+
+Belt: 0 frogs + 0 escargots = 0. produced: 1	Lucy consumed crunchy frog bite.
+
+Belt: 0 frogs + 1 escargots = 1. produced: 2	Added escargot sucker.
+
+Belt: 0 frogs + 0 escargots = 0. produced: 2	Ethel consumed escargot sucker.
+
+Belt: 1 frogs + 0 escargots = 1. produced: 3	Added crunchy frog bite.
+
+Belt: 1 frogs + 1 escargots = 2. produced: 4	Added escargot sucker.
+
+Belt: 0 frogs + 1 escargots = 1. produced: 4	Ethel consumed crunchy frog bite.
+
+Belt: 0 frogs + 0 escargots = 0. produced: 4	Lucy consumed escargot sucker.
+
+Belt: 1 frogs + 0 escargots = 1. produced: 5	Added crunchy frog bite.
+
+Belt: 1 frogs + 1 escargots = 2. produced: 6	Added escargot sucker.
+
+Belt: 0 frogs + 1 escargots = 1. produced: 6	Ethel consumed crunchy frog bite.
+
+Belt: 0 frogs + 2 escargots = 2. produced: 7	Added escargot sucker.
+
+Belt: 1 frogs + 2 escargots = 3. produced: 8	Added crunchy frog bite.
+
+Belt: 1 frogs + 1 escargots = 2. produced: 8	Lucy consumed escargot sucker.
+
+Belt: 1 frogs + 2 escargots = 3. produced: 9	Added escargot sucker.
+
+Belt: 2 frogs + 2 escargots = 4. produced: 10	Added crunchy frog bite.
+
+Belt: 2 frogs + 1 escargots = 3. produced: 10	Ethel consumed escargot sucker.
+
+Belt: 2 frogs + 2 escargots = 4. produced: 11	Added escargot sucker.
+
+Belt: 3 frogs + 2 escargots = 5. produced: 12	Added crunchy frog bite.
+
+Belt: 2 frogs + 2 escargots = 4. produced: 12	Lucy consumed crunchy frog bite.
+
+Belt: 2 frogs + 1 escargots = 3. produced: 12	Ethel consumed escargot sucker.
+
+Belt: 2 frogs + 2 escargots = 4. produced: 13	Added escargot sucker.
+
+Belt: 3 frogs + 2 escargots = 5. produced: 14	Added crunchy frog bite.
+
+Belt: 3 frogs + 3 escargots = 6. produced: 15	Added escargot sucker.
+
+Belt: 2 frogs + 3 escargots = 5. produced: 15	Ethel consumed crunchy frog bite.
+
+Belt: 2 frogs + 2 escargots = 4. produced: 15	Lucy consumed escargot sucker.
+
+Belt: 2 frogs + 3 escargots = 5. produced: 16	Added escargot sucker.
+
+Belt: 3 frogs + 3 escargots = 6. produced: 17	Added crunchy frog bite.
+
+Belt: 2 frogs + 3 escargots = 5. produced: 17	Ethel consumed crunchy frog bite.
+
+Belt: 2 frogs + 4 escargots = 6. produced: 18	Added escargot sucker.
+
+Belt: 2 frogs + 3 escargots = 5. produced: 18	Lucy consumed escargot sucker.
+
+Belt: 3 frogs + 3 escargots = 6. produced: 19	Added crunchy frog bite.
+
+Belt: 3 frogs + 4 escargots = 7. produced: 20	Added escargot sucker.
+
+Belt: 2 frogs + 4 escargots = 6. produced: 20	Ethel consumed crunchy frog bite.
+
+Belt: 2 frogs + 5 escargots = 7. produced: 21	Added escargot sucker.
+
+Belt: 3 frogs + 5 escargots = 8. produced: 22	Added crunchy frog bite.
+
+Belt: 3 frogs + 4 escargots = 7. produced: 22	Lucy consumed escargot sucker.
+
+Belt: 3 frogs + 3 escargots = 6. produced: 22	Ethel consumed escargot sucker.
+
+Belt: 3 frogs + 4 escargots = 7. produced: 23	Added escargot sucker.
+
+Belt: 3 frogs + 5 escargots = 8. produced: 24	Added escargot sucker.
+
+Belt: 2 frogs + 5 escargots = 7. produced: 24	Ethel consumed crunchy frog bite.
+
+Belt: 2 frogs + 4 escargots = 6. produced: 24	Lucy consumed escargot sucker.
+
+Belt: 2 frogs + 5 escargots = 7. produced: 25	Added escargot sucker.
+
+Belt: 3 frogs + 5 escargots = 8. produced: 26	Added crunchy frog bite.
+
+Belt: 2 frogs + 5 escargots = 7. produced: 26	Ethel consumed crunchy frog bite.
+
+Belt: 2 frogs + 6 escargots = 8. produced: 27	Added escargot sucker.
+
+Belt: 2 frogs + 5 escargots = 7. produced: 27	Lucy consumed escargot sucker.
+
+Belt: 3 frogs + 5 escargots = 8. produced: 28	Added crunchy frog bite.
+
+Belt: 3 frogs + 6 escargots = 9. produced: 29	Added escargot sucker.
+
+Belt: 3 frogs + 5 escargots = 8. produced: 29	Ethel consumed escargot sucker.
+
+Belt: 3 frogs + 6 escargots = 9. produced: 30	Added escargot sucker.
+
+Belt: 2 frogs + 6 escargots = 8. produced: 30	Lucy consumed crunchy frog bite.
+
+Belt: 2 frogs + 5 escargots = 7. produced: 30	Ethel consumed escargot sucker.
+
+Belt: 2 frogs + 6 escargots = 8. produced: 31	Added escargot sucker.
+
+Belt: 3 frogs + 6 escargots = 9. produced: 32	Added crunchy frog bite.
+
+Belt: 3 frogs + 7 escargots = 10. produced: 33	Added escargot sucker.
+
+Belt: 3 frogs + 6 escargots = 9. produced: 33	Ethel consumed escargot sucker.
+
+Belt: 3 frogs + 5 escargots = 8. produced: 33	Lucy consumed escargot sucker.
+
+Belt: 3 frogs + 6 escargots = 9. produced: 34	Added escargot sucker.
+
+Belt: 2 frogs + 6 escargots = 8. produced: 34	Ethel consumed crunchy frog bite.
+
+Belt: 2 frogs + 7 escargots = 9. produced: 35	Added escargot sucker.
+
+Belt: 2 frogs + 6 escargots = 8. produced: 35	Lucy consumed escargot sucker.
+
+Belt: 3 frogs + 6 escargots = 9. produced: 36	Added crunchy frog bite.
+
+Belt: 3 frogs + 7 escargots = 10. produced: 37	Added escargot sucker.
+
+Belt: 2 frogs + 7 escargots = 9. produced: 37	Ethel consumed crunchy frog bite.
+
+Belt: 2 frogs + 8 escargots = 10. produced: 38	Added escargot sucker.
+
+Belt: 2 frogs + 7 escargots = 9. produced: 38	Lucy consumed escargot sucker.
+
+Belt: 3 frogs + 7 escargots = 10. produced: 39	Added crunchy frog bite.
+
+Belt: 3 frogs + 6 escargots = 9. produced: 39	Ethel consumed escargot sucker.
+
+Belt: 3 frogs + 7 escargots = 10. produced: 40	Added escargot sucker.
+
+Belt: 3 frogs + 6 escargots = 9. produced: 40	Ethel consumed escargot sucker.
+
+Belt: 3 frogs + 7 escargots = 10. produced: 41	Added escargot sucker.
+
+Belt: 2 frogs + 7 escargots = 9. produced: 41	Lucy consumed crunchy frog bite.
+
+Belt: 2 frogs + 8 escargots = 10. produced: 42	Added escargot sucker.
+
+Belt: 2 frogs + 7 escargots = 9. produced: 42	Ethel consumed escargot sucker.
+
+Belt: 3 frogs + 7 escargots = 10. produced: 43	Added crunchy frog bite.
+
+Belt: 3 frogs + 6 escargots = 9. produced: 43	Lucy consumed escargot sucker.
+
+Belt: 3 frogs + 7 escargots = 10. produced: 44	Added escargot sucker.
+
+Belt: 3 frogs + 6 escargots = 9. produced: 44	Ethel consumed escargot sucker.
+
+Belt: 3 frogs + 7 escargots = 10. produced: 45	Added escargot sucker.
+
+Belt: 2 frogs + 7 escargots = 9. produced: 45	Lucy consumed crunchy frog bite.
+
+Belt: 2 frogs + 8 escargots = 10. produced: 46	Added escargot sucker.
+
+Belt: 2 frogs + 7 escargots = 9. produced: 46	Ethel consumed escargot sucker.
+
+Belt: 3 frogs + 7 escargots = 10. produced: 47	Added crunchy frog bite.
+
+Belt: 3 frogs + 6 escargots = 9. produced: 47	Ethel consumed escargot sucker.
+
+Belt: 3 frogs + 7 escargots = 10. produced: 48	Added escargot sucker.
+
+Belt: 2 frogs + 7 escargots = 9. produced: 48	Lucy consumed crunchy frog bite.
+
+Belt: 2 frogs + 8 escargots = 10. produced: 49	Added escargot sucker.
+
+Belt: 2 frogs + 7 escargots = 9. produced: 49	Ethel consumed escargot sucker.
+
+Belt: 3 frogs + 7 escargots = 10. produced: 50	Added crunchy frog bite.
+
+Belt: 3 frogs + 6 escargots = 9. produced: 50	Lucy consumed escargot sucker.
+
+Belt: 3 frogs + 7 escargots = 10. produced: 51	Added escargot sucker.
+
+Belt: 3 frogs + 6 escargots = 9. produced: 51	Ethel consumed escargot sucker.
+
+Belt: 3 frogs + 7 escargots = 10. produced: 52	Added escargot sucker.
+
+Belt: 2 frogs + 7 escargots = 9. produced: 52	Lucy consumed crunchy frog bite.
+
+Belt: 2 frogs + 8 escargots = 10. produced: 53	Added escargot sucker.
+
+Belt: 2 frogs + 7 escargots = 9. produced: 53	Ethel consumed escargot sucker.
+
+Belt: 3 frogs + 7 escargots = 10. produced: 54	Added crunchy frog bite.
+
+Belt: 3 frogs + 6 escargots = 9. produced: 54	Ethel consumed escargot sucker.
+
+Belt: 3 frogs + 7 escargots = 10. produced: 55	Added escargot sucker.
+
+Belt: 3 frogs + 6 escargots = 9. produced: 55	Lucy consumed escargot sucker.
+
+Belt: 3 frogs + 7 escargots = 10. produced: 56	Added escargot sucker.
+
+Belt: 2 frogs + 7 escargots = 9. produced: 56	Ethel consumed crunchy frog bite.
+
+Belt: 2 frogs + 8 escargots = 10. produced: 57	Added escargot sucker.
+
+Belt: 2 frogs + 7 escargots = 9. produced: 57	Lucy consumed escargot sucker.
+
+Belt: 3 frogs + 7 escargots = 10. produced: 58	Added crunchy frog bite.
+
+Belt: 3 frogs + 6 escargots = 9. produced: 58	Ethel consumed escargot sucker.
+
+Belt: 3 frogs + 7 escargots = 10. produced: 59	Added escargot sucker.
+
+Belt: 2 frogs + 7 escargots = 9. produced: 59	Lucy consumed crunchy frog bite.
+
+Belt: 2 frogs + 8 escargots = 10. produced: 60	Added escargot sucker.
+
+Belt: 2 frogs + 7 escargots = 9. produced: 60	Ethel consumed escargot sucker.
+
+Belt: 3 frogs + 7 escargots = 10. produced: 61	Added crunchy frog bite.
+
+Belt: 3 frogs + 6 escargots = 9. produced: 61	Ethel consumed escargot sucker.
+
+Belt: 3 frogs + 7 escargots = 10. produced: 62	Added escargot sucker.
+
+Belt: 3 frogs + 6 escargots = 9. produced: 62	Lucy consumed escargot sucker.
+
+Belt: 3 frogs + 7 escargots = 10. produced: 63	Added escargot sucker.
+
+Belt: 2 frogs + 7 escargots = 9. produced: 63	Ethel consumed crunchy frog bite.
+
+Belt: 2 frogs + 8 escargots = 10. produced: 64	Added escargot sucker.
+
+Belt: 2 frogs + 7 escargots = 9. produced: 64	Lucy consumed escargot sucker.
+
+Belt: 3 frogs + 7 escargots = 10. produced: 65	Added crunchy frog bite.
+
+Belt: 3 frogs + 6 escargots = 9. produced: 65	Ethel consumed escargot sucker.
+
+Belt: 3 frogs + 7 escargots = 10. produced: 66	Added escargot sucker.
+
+Belt: 3 frogs + 6 escargots = 9. produced: 66	Lucy consumed escargot sucker.
+
+Belt: 3 frogs + 7 escargots = 10. produced: 67	Added escargot sucker.
+
+Belt: 2 frogs + 7 escargots = 9. produced: 67	Ethel consumed crunchy frog bite.
+
+Belt: 2 frogs + 8 escargots = 10. produced: 68	Added escargot sucker.
+
+Belt: 2 frogs + 7 escargots = 9. produced: 68	Ethel consumed escargot sucker.
+
+Belt: 3 frogs + 7 escargots = 10. produced: 69	Added crunchy frog bite.
+
+Belt: 3 frogs + 6 escargots = 9. produced: 69	Lucy consumed escargot sucker.
+
+Belt: 3 frogs + 7 escargots = 10. produced: 70	Added escargot sucker.
+
+Belt: 2 frogs + 7 escargots = 9. produced: 70	Ethel consumed crunchy frog bite.
+
+Belt: 2 frogs + 8 escargots = 10. produced: 71	Added escargot sucker.
+
+Belt: 2 frogs + 7 escargots = 9. produced: 71	Lucy consumed escargot sucker.
+
+Belt: 2 frogs + 8 escargots = 10. produced: 72	Added escargot sucker.
+
+Belt: 2 frogs + 7 escargots = 9. produced: 72	Ethel consumed escargot sucker.
+
+Belt: 3 frogs + 7 escargots = 10. produced: 73	Added crunchy frog bite.
+
+Belt: 3 frogs + 6 escargots = 9. produced: 73	Lucy consumed escargot sucker.
+
+Belt: 3 frogs + 7 escargots = 10. produced: 74	Added escargot sucker.
+
+Belt: 2 frogs + 7 escargots = 9. produced: 74	Ethel consumed crunchy frog bite.
+
+Belt: 2 frogs + 8 escargots = 10. produced: 75	Added escargot sucker.
+
+Belt: 2 frogs + 7 escargots = 9. produced: 75	Ethel consumed escargot sucker.
+
+Belt: 3 frogs + 7 escargots = 10. produced: 76	Added crunchy frog bite.
+
+Belt: 3 frogs + 6 escargots = 9. produced: 76	Lucy consumed escargot sucker.
+
+Belt: 3 frogs + 7 escargots = 10. produced: 77	Added escargot sucker.
+
+Belt: 3 frogs + 6 escargots = 9. produced: 77	Ethel consumed escargot sucker.
+
+Belt: 3 frogs + 7 escargots = 10. produced: 78	Added escargot sucker.
+
+Belt: 2 frogs + 7 escargots = 9. produced: 78	Lucy consumed crunchy frog bite.
+
+Belt: 2 frogs + 8 escargots = 10. produced: 79	Added escargot sucker.
+
+Belt: 2 frogs + 7 escargots = 9. produced: 79	Ethel consumed escargot sucker.
+
+Belt: 3 frogs + 7 escargots = 10. produced: 80	Added crunchy frog bite.
+
+Belt: 3 frogs + 6 escargots = 9. produced: 80	Lucy consumed escargot sucker.
+
+Belt: 3 frogs + 7 escargots = 10. produced: 81	Added escargot sucker.
+
+Belt: 3 frogs + 6 escargots = 9. produced: 81	Ethel consumed escargot sucker.
+
+Belt: 3 frogs + 7 escargots = 10. produced: 82	Added escargot sucker.
+
+Belt: 2 frogs + 7 escargots = 9. produced: 82	Ethel consumed crunchy frog bite.
+
+Belt: 2 frogs + 6 escargots = 8. produced: 82	Lucy consumed escargot sucker.
+
+Belt: 2 frogs + 7 escargots = 9. produced: 83	Added escargot sucker.
+
+Belt: 3 frogs + 7 escargots = 10. produced: 84	Added crunchy frog bite.
+
+Belt: 3 frogs + 6 escargots = 9. produced: 84	Ethel consumed escargot sucker.
+
+Belt: 3 frogs + 7 escargots = 10. produced: 85	Added escargot sucker.
+
+Belt: 2 frogs + 7 escargots = 9. produced: 85	Lucy consumed crunchy frog bite.
+
+Belt: 2 frogs + 8 escargots = 10. produced: 86	Added escargot sucker.
+
+Belt: 2 frogs + 7 escargots = 9. produced: 86	Ethel consumed escargot sucker.
+
+Belt: 3 frogs + 7 escargots = 10. produced: 87	Added crunchy frog bite.
+
+Belt: 3 frogs + 6 escargots = 9. produced: 87	Lucy consumed escargot sucker.
+
+Belt: 3 frogs + 7 escargots = 10. produced: 88	Added escargot sucker.
+
+Belt: 3 frogs + 6 escargots = 9. produced: 88	Ethel consumed escargot sucker.
+
+Belt: 3 frogs + 7 escargots = 10. produced: 89	Added escargot sucker.
+
+Belt: 2 frogs + 7 escargots = 9. produced: 89	Ethel consumed crunchy frog bite.
+
+Belt: 2 frogs + 6 escargots = 8. produced: 89	Lucy consumed escargot sucker.
+
+Belt: 2 frogs + 7 escargots = 9. produced: 90	Added escargot sucker.
+
+Belt: 3 frogs + 7 escargots = 10. produced: 91	Added crunchy frog bite.
+
+Belt: 3 frogs + 6 escargots = 9. produced: 91	Ethel consumed escargot sucker.
+
+Belt: 3 frogs + 7 escargots = 10. produced: 92	Added escargot sucker.
+
+Belt: 3 frogs + 6 escargots = 9. produced: 92	Lucy consumed escargot sucker.
+
+Belt: 3 frogs + 7 escargots = 10. produced: 93	Added escargot sucker.
+
+Belt: 2 frogs + 7 escargots = 9. produced: 93	Ethel consumed crunchy frog bite.
+
+Belt: 2 frogs + 8 escargots = 10. produced: 94	Added escargot sucker.
+
+Belt: 2 frogs + 7 escargots = 9. produced: 94	Lucy consumed escargot sucker.
+
+Belt: 3 frogs + 7 escargots = 10. produced: 95	Added crunchy frog bite.
+
+Belt: 3 frogs + 6 escargots = 9. produced: 95	Ethel consumed escargot sucker.
+
+Belt: 3 frogs + 7 escargots = 10. produced: 96	Added escargot sucker.
+
+Belt: 2 frogs + 7 escargots = 9. produced: 96	Ethel consumed crunchy frog bite.
+
+Belt: 2 frogs + 8 escargots = 10. produced: 97	Added escargot sucker.
+
+Belt: 2 frogs + 7 escargots = 9. produced: 97	Lucy consumed escargot sucker.
+
+Belt: 2 frogs + 8 escargots = 10. produced: 98	Added escargot sucker.
+
+Belt: 2 frogs + 7 escargots = 9. produced: 98	Ethel consumed escargot sucker.
+
+Belt: 3 frogs + 7 escargots = 10. produced: 99	Added crunchy frog bite.
+
+Belt: 3 frogs + 6 escargots = 9. produced: 99	Lucy consumed escargot sucker.
+
+Belt: 3 frogs + 7 escargots = 10. produced: 100	Added escargot sucker.
+
+Belt: 2 frogs + 7 escargots = 9. produced: 100	Ethel consumed crunchy frog bite.
+
+Belt: 2 frogs + 6 escargots = 8. produced: 100	Lucy consumed escargot sucker.
+
+Belt: 2 frogs + 5 escargots = 7. produced: 100	Ethel consumed escargot sucker.
+
+Belt: 2 frogs + 4 escargots = 6. produced: 100	Ethel consumed escargot sucker.
+
+Belt: 1 frogs + 4 escargots = 5. produced: 100	Lucy consumed crunchy frog bite.
+
+Belt: 1 frogs + 3 escargots = 4. produced: 100	Ethel consumed escargot sucker.
+
+Belt: 1 frogs + 2 escargots = 3. produced: 100	Lucy consumed escargot sucker.
+
+Belt: 1 frogs + 1 escargots = 2. produced: 100	Ethel consumed escargot sucker.
+
+Belt: 0 frogs + 1 escargots = 1. produced: 100	Lucy consumed crunchy frog bite.
+
+Belt: 0 frogs + 0 escargots = 0. produced: 100	Ethel consumed escargot sucker.
+
+
+
+PRODUCTION REPORT
+
+----------------------------------------
+
+crunchy frog bite producer generated 31 candies
+
+escargot sucker producer generated 69 candies
+
+Lucy consumed 12 crunchy frogs bites + 31 escargot suckers = 43 
+
+Ethel consumed 19 crunchy frogs bites + 38 escargot suckers = 57 
+
