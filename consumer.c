@@ -1,17 +1,3 @@
-/**********************
-***********************
-Student 1: Huy Tran
-Red ID: 818608122
-
-Student 2: Hosun Yoo
-Red ID: 819543212
-
-CS-570
-a05
-consumer.c
-***********************
-***********************/
-
 #include "consumer.h"
 
 /* function to initialize the Consumer Data Structures to be passed to threads */
